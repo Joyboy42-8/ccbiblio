@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@source "app/views/livre/create.php";
+@source "app/views/livre/edit.php";
+@source "app/views/livre/index.php";
+@source "app/views/categorie/create.php";
+@source "app/views/categorie/edit.php";
+@source "app/views/categorie/index.php";
